@@ -3,11 +3,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Principal_AI_Researcher_%26_Quant-0f172a?style=for-the-badge&logo=probot&logoColor=38bdf8" alt="Role" />
   <img src="https://img.shields.io/badge/Foundry-16_AI%2FML_Modules_Verified-10b981?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Foundry" />
-  <img src="https://img.shields.io/badge/Tests-85%2F85_100%25_Passing-3b82f6?style=for-the-badge&logo=pytest&logoColor=white" alt="Tests" />
+  <img src="https://img.shields.io/badge/Volatility_Lab-GARCH_%26_HAR--RV_%26_ML-6366f1?style=for-the-badge&logo=apachespark&logoColor=white" alt="Volatility Lab" />
   <img src="https://img.shields.io/badge/Paradigms-Pure_NumPy_First_Principles-fbbf24?style=for-the-badge&logo=numpy&logoColor=black" alt="First Principles" />
 </p>
 
-### 🔮 Quantitative Systems Architect & Mathematical AI Researcher
+### 🔮 Quantitative Systems Architect & Mathematical Machine Learning Researcher
 I architect first-principles machine learning foundations, non-Euclidean geometric deep learning manifolds, stochastic calculus engines, causal discovery systems, and microsecond-level algorithmic trading frameworks.
 
 ---
@@ -38,9 +38,33 @@ I architect first-principles machine learning foundations, non-Euclidean geometr
 
 ---
 
+## 🏛️ Flagship Quantitative Research & Trading Systems
+
+1. **[volatility-forecasting-lab](https://github.com/rishav-raj-quant/volatility-forecasting-lab)**
+   - Advanced Quantitative Volatility Forecasting & Financial Risk Analytics Platform.
+   - GARCH(1,1), EGARCH, GJR-GARCH, Corsi HAR-RV, Random Forest, LightGBM, XGBoost, and PyTorch LSTM/TCN/Attention.
+   - Multi-horizon forecasting ($1d, 5d, 10d, 20d$), Patton QLIKE loss, Diebold-Mariano testing, Value at Risk (VaR), Expected Shortfall (CVaR), Basel backtesting (Kupiec & Christoffersen), and interactive Streamlit workstation.
+
+2. **[microstructure-optimal-execution](https://github.com/rishav-raj-quant/microstructure-optimal-execution)**
+   - Stochastic Liquidation Control: Almgren-Chriss Viscosity Dynamics, Avellaneda-Stoikov HJB & Cartea-Jaimungal Drift Execution.
+   - Limit order book impact modeling, temporary and permanent market impact functions.
+
+3. **[conformal-risk-control](https://github.com/rishav-raj-quant/conformal-risk-control)**
+   - Distribution-Free Conformal Prediction, Non-Exchangeable Online ACI & Monotonic Risk Control Bounds.
+   - Finite-sample valid prediction intervals for financial return and risk distributions.
+
+4. **[fractional-timeseries-engine](https://github.com/rishav-raj-quant/fractional-timeseries-engine)**
+   - Fractional Differencing Memory Optimization, Multi-Method Hurst Estimators & Rough Volterra Path Engine.
+   - Stationarity preservation while retaining maximum long-memory financial feature signal.
+
+5. **[kernel-bypass-io](https://github.com/rishav-raj-quant/kernel-bypass-io)**
+   - Ultra-Low Latency Kernel-Bypass I/O Framework: Zero-Copy SPSC Ring Buffers, AF_XDP (XSK), io_uring SQPOLL & DPDK PMD Architecture for High-Frequency Trading.
+
+---
+
 ## 🏛️ Master AI/ML Monorepo & Algorithmic Foundry
 
-### ⚡ **[ai-ml-algorithmic-foundry](https://github.com/Rishav-raj-github/ai-ml-algorithmic-foundry)**
+### ⚡ **[ai-ml-algorithmic-foundry](https://github.com/rishav-raj-quant/ai-ml-algorithmic-foundry)**
 *The Definitive 16-Module Mathematical AI/ML Foundry & Practice Arena — Built from first principles in vectorized NumPy/SciPy with zero black-box dependencies.*
 
 ```
@@ -65,21 +89,21 @@ ai-ml-algorithmic-foundry/
 
 ---
 
-## 🔬 Top-Tier Standalone AI & Mathematical Research Repositories
+## 🔬 Standalone AI & Mathematical Research Repositories
 
-1. **[causal-manifold-scm](https://github.com/Rishav-raj-github/causal-manifold-scm)**
+1. **[causal-manifold-scm](https://github.com/rishav-raj-quant/causal-manifold-scm)**
    - Augmented Lagrangian Continuous DAG Discovery ($\text{Tr}(\exp(W \odot W)) - d = 0$).
    - Double Machine Learning (DML) CATE with Neyman-Orthogonal cross-fitting & Conformal Counterfactual bands.
-2. **[riemannian-topological-flow](https://github.com/Rishav-raj-github/riemannian-topological-flow)**
+2. **[riemannian-topological-flow](https://github.com/rishav-raj-quant/riemannian-topological-flow)**
    - Poincaré Ball ($\mathbb{H}^n$) & Spherical ($\mathbb{S}^n$) Riemannian Geometry.
    - Pontryagin Adjoint Neural ODE Continuous Integration & Vietoris-Rips Persistent Landscapes $\lambda_k(t)$.
-3. **[neural-sde-extremes](https://github.com/Rishav-raj-github/neural-sde-extremes)**
+3. **[neural-sde-extremes](https://github.com/rishav-raj-quant/neural-sde-extremes)**
    - Itô-Euler-Maruyama & Strong Order 1.0 Milstein Stochastic Differential Equation Solvers.
    - Jump-Diffusion SDEs (Merton & Kou) + Extreme Value Theory (EVT) GPD POT & Martingale CUSUM-SPRT.
-4. **[bayesian-active-surrogate](https://github.com/Rishav-raj-github/bayesian-active-surrogate)**
+4. **[bayesian-active-surrogate](https://github.com/rishav-raj-quant/bayesian-active-surrogate)**
    - Deep Kernel Learning Gaussian Processes with Spectral Mixture Kernels.
    - $O(N)$ Lanczos Krylov Tridiagonalization & $q\text{-EHVI}$ Multi-Objective Pareto Active Learning.
-5. **[neurosymbolic-tensor-verifier](https://github.com/Rishav-raj-github/neurosymbolic-tensor-verifier)**
+5. **[neurosymbolic-tensor-verifier](https://github.com/rishav-raj-quant/neurosymbolic-tensor-verifier)**
    - Continuous t-Norm First-Order Logic Relaxations (Product, Łukasiewicz, Gödel).
    - High-order CP-ALS, Tucker HOSVD, Tensor-Train factorizations & Spectral Lipschitz Lyapunov Stability Certificates.
 
@@ -87,9 +111,9 @@ ai-ml-algorithmic-foundry/
 
 ## ⚡ High-Frequency Quantitative Engineering & Systems
 
-* **[submicrosecond-lob-engine](https://github.com/Rishav-raj-github/submicrosecond-lob-engine)**: Sub-microsecond matching engine in C++20 with lock-free SPSC queues, contiguous cache-aligned memory arenas, and AVX-512 SIMD parsing.
-* **[helix-live-execution-oms](https://github.com/Rishav-raj-github/helix-live-execution-oms)**: Event-driven algorithmic execution OMS with dynamic Donchian volatility channels and real-time risk guards.
-* **[market_maker_algo](https://github.com/Rishav-raj-github/market_maker_algo)**: Multi-threaded Avellaneda-Stoikov market maker combining Cython C-extensions, Kafka streaming, and Redis caching.
+* **[submicrosecond-lob-engine](https://github.com/rishav-raj-quant/submicrosecond-lob-engine)**: Sub-microsecond matching engine in C++20 with lock-free SPSC queues, contiguous cache-aligned memory arenas, and AVX-512 SIMD parsing.
+* **[helix-live-execution-oms](https://github.com/rishav-raj-quant/helix-live-execution-oms)**: Event-driven algorithmic execution OMS with dynamic Donchian volatility channels and real-time risk guards.
+* **[market_maker_algo](https://github.com/rishav-raj-quant/market_maker_algo)**: Multi-threaded Avellaneda-Stoikov market maker combining Cython C-extensions, Kafka streaming, and Redis caching.
 
 ---
 
@@ -107,6 +131,6 @@ ai-ml-algorithmic-foundry/
 ## 📈 Developer Telemetry & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-raj-github&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-raj-github&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishav-raj-quant&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-raj-quant&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
