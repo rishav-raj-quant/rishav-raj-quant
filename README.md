@@ -1,7 +1,7 @@
 # Hello, I'm Rishav Raj 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Principal_AI_Researcher_%26_Quant-0f172a?style=for-the-badge&logo=probot&logoColor=38bdf8" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Principal_AI_Researcher_%26_Quant-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Role" />
   <img src="https://img.shields.io/badge/Foundry-16_AI%2FML_Modules_Verified-10b981?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Foundry" />
   <img src="https://img.shields.io/badge/Volatility_Lab-GARCH_%26_HAR--RV_%26_ML-6366f1?style=for-the-badge&logo=apachespark&logoColor=white" alt="Volatility Lab" />
   <img src="https://img.shields.io/badge/Paradigms-Pure_NumPy_First_Principles-fbbf24?style=for-the-badge&logo=numpy&logoColor=black" alt="First Principles" />
